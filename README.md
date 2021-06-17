@@ -11,6 +11,6 @@ This repository contains learning materials, books and projects related to Messa
 ## <a id="rabbitmq"></a>RabbitMQ
 1. [Basic Overview](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
 2. [Simple introduction](https://www.rabbitmq.com/resources/google-tech-talk-final/alexis-google-rabbitmq-talk.pdf)
-3. 
+3. [RabbitMQ + Docker](https://www.architect.io/blog/rabbitmq-docker-tutorial)
 
 ## <a id="activemq"></a>ActiveMQ
